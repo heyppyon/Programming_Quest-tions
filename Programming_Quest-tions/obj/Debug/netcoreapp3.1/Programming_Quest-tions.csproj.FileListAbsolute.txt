@@ -1,0 +1,13 @@
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\bin\Debug\netcoreapp3.1\Programming_Quest-tions.exe
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\bin\Debug\netcoreapp3.1\Programming_Quest-tions.deps.json
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\bin\Debug\netcoreapp3.1\Programming_Quest-tions.runtimeconfig.json
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\bin\Debug\netcoreapp3.1\Programming_Quest-tions.runtimeconfig.dev.json
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\bin\Debug\netcoreapp3.1\Programming_Quest-tions.dll
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\bin\Debug\netcoreapp3.1\Programming_Quest-tions.pdb
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.csprojAssemblyReference.cache
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.AssemblyInfoInputs.cache
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.AssemblyInfo.cs
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.csproj.CoreCompileInputs.cache
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.dll
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.pdb
+C:\Users\ppyon\source\repos\Programming_Quest-tions\Programming_Quest-tions\obj\Debug\netcoreapp3.1\Programming_Quest-tions.genruntimeconfig.cache
